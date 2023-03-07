@@ -1,5 +1,8 @@
 ![BADGE](https://github.com/blackDogSleeps/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+Адрес проекта: http://notadiary.ddns.net/api/v1/
+
+
 # Yamdb project
 Учебный проект по созданию социальной сети: регистрация, авторизация, создание постов, добавление групп, комментарии постов, подписки на авторов.
 
